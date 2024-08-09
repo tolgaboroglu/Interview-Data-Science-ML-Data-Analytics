@@ -1,13 +1,14 @@
 ## Germany - Retail Sector - Data Analytics Engineer Position 
 
-Steps: 
-Step 1: HR Call Interview
-Step 2: Hiring Manager Technical Interview
+## Steps: 
 
-Step 3:
-Step 60 mins coding
-60 mins system design
-60 mins stakeholder
+### Step 1: HR Call Interview
+### Step 2: Hiring Manager Technical Interview
+
+### Step 3:
+* Step 60 mins coding
+* 60 mins system design
+* 60 mins stakeholder
 
 Step 1. Talk general questions about the position.
 
