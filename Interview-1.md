@@ -3,6 +3,8 @@
 ## Step 1: HR Call Interview 
 * We talked about the position and expectations
 
+## Step 2:  Technical Interview 
+
 ### 1. Which LLM models did you use in your chatbot project?
 
 ### 2. How do you choose models for chatbot projects?
