@@ -17,8 +17,7 @@ Step 1. Talk general questions about the position.
 ### 2. Describe the architecture of PySpark.
 
 ### 3. Python and SQL Problem-Solving
-### Python: Palindrome Checker
-
+### Python: Palindrome Checker and SQL Problem-Solving
 ```python
 def palindrome(text: str) -> bool:
     # Remove spaces and convert to lowercase for case-insensitive comparison
