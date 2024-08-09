@@ -1,4 +1,7 @@
-## Technical Questions - ML Engineer Position - Fintech Company
+# Technical Questions - ML Engineer Position - Fintech Company
+
+## Step 1: HR Call Interview 
+* We talked about the position and expectations
 
 ### 1. Which LLM models did you use in your chatbot project?
 
