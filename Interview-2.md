@@ -50,8 +50,6 @@ SELECT 3 AS item_id, 'Sean' AS name, 35 AS price FROM dual;
 
 
 
-### 4. Explain ETL Processes.
-Discuss the ETL (Extract, Transform, Load) process, including its stages, best practices, and how it's implemented in data pipelines for efficient data integration and analysis.
 
 
 
