@@ -20,3 +20,9 @@
 ### 7. Can you tell us about your most successful or most motivating project?
 
 ### 8. What metrics do you use to evaluate model performance?
+
+### 9. How do you handle situations where your AI models produce inaccurate or unexpected results?
+
+### 10. If you were doing this interview right now, what questions would you ask yourself and would you answer them?
+
+### 11. Why did you choose this field and what are your future goals?
