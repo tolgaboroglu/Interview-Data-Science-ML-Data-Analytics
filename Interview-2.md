@@ -33,6 +33,8 @@ print(palindrome("bananas"))            # False
 print(palindrome("abcdefgfedcba"))      # True
 print(palindrome("abcddcbe"))           # False
 
+### SQL 
+
 ```sql
 
 CREATE TABLE offprice_item_bid_price AS
