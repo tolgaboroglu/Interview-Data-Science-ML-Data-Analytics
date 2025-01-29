@@ -8,3 +8,4 @@
 
 4. Offer 
 
+Note: I was rejected after the interview with the team leader. If my interview with the team leader had been successful, I would have gone to Romania.
